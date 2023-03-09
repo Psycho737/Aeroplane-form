@@ -1,0 +1,42 @@
+.main{
+    background-color: yellow;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+}
+
+.Aeroplane{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+hr{
+    height: 2;
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    font-size: large;
+    padding: 0;
+    margin: 0;
+}
+
+.submit{
+    padding: 2px 1px;
+    background-color: red;
+    width: 80px;
+    height: 30px;
+}
+
+marquee{
+    height: 48px;
+    padding: 0;
+    margin: 0;
+}
